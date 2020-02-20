@@ -1,0 +1,13 @@
+.firstpart{
+    background-color: #4696e5;
+    height: 300px;
+    color:white;
+    text-align: right;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title{
+    text-align: center;
+}
